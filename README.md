@@ -13,7 +13,8 @@
 			 alt="Gitmoji">
 	</a>
 </p>
-============================
+<center>============================</center>
+
 > 	Fork By [git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn)，由于原项目更新频率及来源问题，故自立分支。 
 
 执行 `git commit` 时使用 emoji 为本次提交打上一个 "标签", 使得此次 commit 的主要工作得以凸现，也能够使得其在整个提交历史中易于区分与查找。
