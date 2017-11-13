@@ -13,7 +13,6 @@
 			 alt="Gitmoji">
 	</a>
 </p>
-git commit emoji 中文使用指南([EN](https://gitmoji.carloscuesta.me/))
 ============================
 > 	Fork By [git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn)，由于原项目更新频率及来源问题，故自立分支。 
 
